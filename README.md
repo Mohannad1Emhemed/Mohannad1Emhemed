@@ -1,5 +1,6 @@
 ### Hi there, I'm **Mohannad** 👋
 
+[LinkedIn](https://www.linkedin.com/in/mohannad-emhemed/), [Email](Mohannad.Emhemed@gmail.com)
 
 <!--
 **Mohannad1Emhemed/Mohannad1Emhemed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
